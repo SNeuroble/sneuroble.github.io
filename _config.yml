@@ -2,3 +2,8 @@ remote_theme: daattali/beautiful-jekyll
 title: Stephanie Noble's Research
 author: Stephanie Noble
 description: All things academia.
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "aboutme"
