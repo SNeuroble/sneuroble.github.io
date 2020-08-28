@@ -13,3 +13,8 @@ _Funded by NIMH K00MH122372_
 
 Recent work has raised questions about the reliability and validity of major fMRI statistical methods. The first part of this project addressed open questions regarding the test-retest reliability of functional connectivity. The second part of this project evaluated sensitivity of common cluster-based inference methods used in activation mapping.  
 _Funded by NINDS F99NS108557_
+
+**BioImage Suite Web**
+I am part of the [BioImage Suite Web (BISWeb)]<https://bioimagesuiteweb.github.io/webapp/> team led by Dustin Scheinost and Xenophon Papademetris (_R24 MH114805, PIs: Papademetris X. and Scheinost D_). BISWeb is a point-and-click app that runs in any modern web browser without any installation necessary, yet with performance rivaling that of a locally installed software.
+
+![](https://github.com/bioimagesuiteweb/bisweb/blob/master/web/images/bisweb_newlogo_white_small.png)
