@@ -7,10 +7,11 @@ description: All things academia.
 
 navbar-links:
   About Me: "aboutme"
+  Publications: "https://scholar.google.com/citations?user=JxQdvn4AAAAJ&hl=en&oi=sra"
 
 # --- Logo --- #
 
-thumbnail-img: "/assets/img/profile_photo_2018_square.jpeg"
+avatar: "/assets/img/profile_photo_2018_square.jpeg"
 
 # --- Footer options --- #
 
@@ -18,7 +19,6 @@ thumbnail-img: "/assets/img/profile_photo_2018_square.jpeg"
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  rss: true
   email: "stephanie.noble@yale.edu"
   github: sNeuroble
   twitter: sNeuroble
@@ -26,4 +26,4 @@ social-network-links:
   
 # --- Colours / background image --- #
 
-mobile-theme-col: "#0085A1"
+# mobile-theme-col: "#0085A1"
