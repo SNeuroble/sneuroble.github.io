@@ -27,7 +27,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 300; /* SMN - originally 800 */
   line-height: 1.1;
 }
 h1 {
@@ -756,7 +756,7 @@ footer .footer-custom-content {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 0.875rem;
-  font-weight: 300; /* SMN - originally 800 */
+  font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
   background-color: #FFF;
