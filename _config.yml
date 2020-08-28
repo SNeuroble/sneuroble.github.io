@@ -1,5 +1,5 @@
 remote_theme: daattali/beautiful-jekyll
-title: Stephanie Noble's Research
+title: Stephanie Noble
 author: Stephanie Noble
 description: All things academia.
 
@@ -7,6 +7,7 @@ description: All things academia.
 
 navbar-links:
   About Me: "aboutme"
+  CV: "/img/SMN_CV_Aug_2020.pdf"
   Publications: "https://scholar.google.com/citations?user=JxQdvn4AAAAJ&hl=en&oi=sra"
 
 # --- Logo --- #
