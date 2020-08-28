@@ -11,11 +11,11 @@ navbar-links:
 
 # --- Logo --- #
 
-avatar: "/assets/img/profile_photo_2018_square.jpeg"
+avatar: "/img/profile_photo_2018_square.jpeg"
 
 # --- Cover image --- #
 
-cover-img: "/assets/img/clanky_banner.gif"
+cover-img: "/img/clanky_banner.gif"
 
 # --- Footer options --- #
 
@@ -40,7 +40,7 @@ social-network-links:
 # footer-col: "#EAEAEA"
 # footer-text-col: "#777777"
 # footer-link-col: "#404040"
-# navbar-img: "/assets/img/clanky_banner.gif"
+# navbar-img: "/img/clanky_banner.gif"
 # mobile-theme-col: "#0085A1"
 
 
