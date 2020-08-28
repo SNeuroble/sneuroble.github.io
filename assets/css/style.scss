@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+/* Change title attributes */
+@media (min-width: 768px)
+.intro-header .page-heading h1 {
+    font-size: 3rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+/*    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+    font-weight: 100;
+    line-height: 1;
+}
