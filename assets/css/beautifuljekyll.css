@@ -652,7 +652,7 @@ footer .footer-custom-content {
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
-    padding: 8.375rem 0; /* SMN - orig 9.375*/
+    padding: 6.375rem 0; /* SMN - orig 9.375*/
   }
   .intro-header .page-heading h1 {
     font-size: 5rem;
@@ -756,7 +756,7 @@ footer .footer-custom-content {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 0.875rem;
-  font-weight: 800; /* SMN - originally 800 */
+  font-weight: 300; /* SMN - originally 800 */
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
   background-color: #FFF;
