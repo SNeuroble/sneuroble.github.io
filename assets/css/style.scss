@@ -5,9 +5,11 @@
 
 
 /* Change title attributes */
-@media (min-width: 768px)
+
+@media (min-width: 768px) {
 .intro-header .page-heading h1 {
     font-size: 3rem;
+}
 }
 
 h1, h2, h3, h4, h5, h6 {
