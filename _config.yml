@@ -38,3 +38,12 @@ social-network-links:
 # footer-link-col: "#404040"
 navbar-img: "/assets/img/clanky_banner.gif"
 # mobile-theme-col: "#0085A1"
+
+
+defaults:
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
