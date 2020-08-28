@@ -13,6 +13,10 @@ navbar-links:
 
 avatar: "/assets/img/profile_photo_2018_square.jpeg"
 
+# --- Cover image --- #
+
+cover-img: "/assets/img/clanky_banner.gif"
+
 # --- Footer options --- #
 
 # Select the social network links that you want to show in the footer.
@@ -36,7 +40,7 @@ social-network-links:
 # footer-col: "#EAEAEA"
 # footer-text-col: "#777777"
 # footer-link-col: "#404040"
-navbar-img: "/assets/img/clanky_banner.gif"
+# navbar-img: "/assets/img/clanky_banner.gif"
 # mobile-theme-col: "#0085A1"
 
 
