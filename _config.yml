@@ -7,7 +7,7 @@ description: All things academia.
 
 navbar-links:
   Projects: "projects"
-  CV: /img/SMN_CV_Aug_2020.pdf
+  CV: /img/SMN_CV_Feb_2021.pdf
   Publications: "https://scholar.google.com/citations?user=JxQdvn4AAAAJ&hl=en&oi=sra"
 
 # --- Logo --- #
@@ -16,7 +16,7 @@ avatar: "/img/profile_photo_2018_square.jpeg"
 
 # --- Cover image --- #
 
-cover-img: "/img/clanky_banner.gif"
+cover-img: "/img/net_banner.gif"
 
 # --- Footer options --- #
 
