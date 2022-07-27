@@ -44,6 +44,8 @@ footer-col: "#252525"
 # navbar-img: "/img/clanky_banner.gif"
 # mobile-theme-col: "#0085A1"
 
+# --- Google analytics --- #
+google_analytics: G-2NG2DRHKPG
 
 defaults:
   -
