@@ -4,6 +4,11 @@ title: Projects
 ---
 The following projects are geared towards understanding existing research methods and creating more accurate research tools in fMRI.
 
+**Empirical Power Analysis Tool for fMRI**  
+_Funded by NIMH K99MH130894_
+
+Recent work has exposed an endemic lack of statistical power (i.e., ability to detect effects of interest) and a need for power analysis tools that meet the demands of the typical user. We propose to create a web-based power calculator tailored to typical fMRI studies that only requires the user to specify information readily available to them. By enabling researchers to more easily and accurately plan studies for desired levels of power, this power calculator will promote more robust and reproducible findings in the field.
+
 **The Constrained Network-Based Statistic: A New Level of Inference for Neuroimaging**  
 _Funded by NIMH K00MH122372_
 
