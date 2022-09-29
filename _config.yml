@@ -45,7 +45,7 @@ footer-col: "#252525"
 # mobile-theme-col: "#0085A1"
 
 # --- Google analytics --- #
-google-analytics: G-2NG2DRHKPG
+google_analytics: G-2NG2DRHKPG
 
 defaults:
   -
