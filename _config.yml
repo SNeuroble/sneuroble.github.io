@@ -6,6 +6,7 @@ description: All things academia.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Opportunities: opportunities
   Projects: "projects"
   CV: /img/SMN_CV_Mar_2023.pdf
   Publications: "https://scholar.google.com/citations?user=JxQdvn4AAAAJ&hl=en&oi=sra"
