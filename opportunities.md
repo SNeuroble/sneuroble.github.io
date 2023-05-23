@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opportunities
+title: Join us!
 ---
 Join our innovative computational neuroscience research team at the Neuroscience Precision Research & Idiographic Statistical Methods (Neuro-PRISM) Lab!  Our lab focuses on unraveling fundamental principles of brain measurement and developing statistical and machine learning models for individual-level insight.
 
