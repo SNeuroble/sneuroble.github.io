@@ -18,4 +18,4 @@ Postdoctoral researchers receive mentored experience in developing and running r
 
 Postdoctoral researchers with existing technical and quantitative research experience and the desire to lead projects related to the aforementioned topics will represent a strong fit with the objectives and training environment of the Neuro-PRISM lab. Postdoctoral researchers typically hold a PhD in Psychology, Neuroscience, Bioengineering, or a related field with demonstrated experience leading research relating to the above topics.
 
-_If you're interested in discussing potential opportunities in the lab, please reach out to Dr. Stephanie Noble at stephanie.noble<at>yale.edu_
+_If you're interested in discussing potential opportunities in the lab, please reach out to Dr. Stephanie Noble at stephanie.noble\<at\>yale.edu_
