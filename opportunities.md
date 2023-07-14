@@ -2,9 +2,11 @@
 layout: page
 title: Join us!
 ---
-Join our innovative computational neuroscience research team at the Neuroscience Precision Research & Idiographic Statistical Methods (Neuro-PRISM) Lab!  Our lab focuses on unraveling fundamental principles of brain measurement and developing statistical and machine learning models for individual-level insight.
+Join our innovative computational neuroscience research team at the Neuroscience Precision Research & Idiographic Statistical Methods (NeuroPRISM) Lab!  Our lab focuses on unraveling fundamental principles of brain measurement and developing statistical and machine learning models for individual-level insight.
 
 **Research Staff (e.g., Research Assistant, Research Technician, Lab Manager)**
+
+Apply <a href="https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Technician_R116206">here</a>!
 
 Research staff receive mentored experience in assisting in all aspects of running a computational neuroscience research lab, making it an excellent fit for individuals considering graduate school or non-academic research careers in computational psychology, biomedicine, and meta-research.
 
@@ -14,8 +16,10 @@ Research staff typically hold a Bachelor’s or Master’s degree in Psychology,
 
 **Postdoctoral Researchers**
 
+Apply <a href="https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R116179">here</a>!
+
 Postdoctoral researchers receive mentored experience in developing and running research projects, with an emphasis on preparation to lead an independent research lab. Opportunities and training towards independence and ownership over research projects is a central feature of this position. Postdoctoral research projects will broadly involve the development of machine learning, statistics, or other computational methodologies for human neuroscience research.
 
 Postdoctoral researchers with existing technical and quantitative research experience and the desire to lead projects related to the aforementioned topics will represent a strong fit with the objectives and training environment of the Neuro-PRISM lab. Postdoctoral researchers typically hold a PhD in Psychology, Neuroscience, Bioengineering, or a related field with demonstrated experience leading research relating to the above topics.
 
-_If you're interested in discussing potential opportunities in the lab, please reach out to Dr. Stephanie Noble at stephanie.noble\<at\>yale.edu_
+_If you're interested in discussing potential opportunities in the lab, please reach out to Dr. Stephanie Noble at s.noble\<at\>northeastern.edu_ or _stephanie.noble\<at\>yale.edu_ .
