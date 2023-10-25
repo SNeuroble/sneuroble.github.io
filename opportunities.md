@@ -29,7 +29,7 @@ Additional resources:
 
 **Research Staff**
 
-\*\*_We are **not** currently recruiting research staff but are open to inquiries regarding a data / computational resource management_\*\*
+\*\*_We are **not** currently recruiting research staff but are open to inquiries regarding a data / computational resource management role_\*\*
 
 
 _If you are interested in discussing potential opportunities in the lab, please reach out to Dr. Stephanie Noble at s.noble\<at\>northeastern.edu . (Note that due to the volume of requests we may not be able to respond to all inquiries.)_
