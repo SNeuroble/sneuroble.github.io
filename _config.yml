@@ -8,8 +8,11 @@ description: All things academia.
 navbar-links:
   Join us!: "opportunities"
   Projects: "projects"
-  CV: /img/SMN_CV_Jan_2024.pdf
+  Members: "members"
+  # CV: /img/SMN_CV_Jan_2024.pdf
   Publications: "https://scholar.google.com/citations?user=JxQdvn4AAAAJ&hl=en&oi=sra"
+  # Resources: "resources" # add once we have the Shiny ready
+  
 
 # --- Logo --- #
 
