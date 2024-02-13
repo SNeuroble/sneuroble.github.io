@@ -2,7 +2,7 @@
 
 <div class="container">
     <div class="image">
-        <img src="steph.jpg" alt="Stephanie Noble" height="150">
+        <img src="img/steph.jpg" alt="Stephanie Noble" height="150">
     </div>
     <div class="text">
         <h2>Stephanie Noble</h2>
@@ -12,7 +12,7 @@
 
 <div class="container">
     <div class="image">
-        <img src="hallee.jpg" alt="Hallee Shearer" height="150">
+        <img src="img/hallee.jpg" alt="Hallee Shearer" height="150">
     </div>
     <div class="text">
         <h2>Hallee Shearer</h2>
