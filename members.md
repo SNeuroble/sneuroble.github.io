@@ -4,8 +4,8 @@
     </div>
     <div style="flex: 70%;">
         <h2>Dr. Stephanie Noble</h2>
-        <h3>_Principal Investigator_<h3>
         <p>Dr. Stephanie Noble is an Assistant Professor in the Department of Psychology, Department of Bioengineering, and Center for Cognitive and Brain Health at Northeastern University where she focuses on creating tools to facilitate more precise human neuroscience inference and prediction. Her research lies at the intersection of data science, neuroscience, and open science. Specifically, her work has addressed open questions and introduced new paths forward to facilitate more reliable and valid neuroimaging studies. Previously, Dr. Noble received a BS in Chemical & Biological Engineering from Princeton University, a PhD in the Interdepartmental Neuroscience Program at Yale University, and completed Postdoctoral training in Radiology & Biomedical Imaging at Yale. Beyond academia, she co-founded EEG startup goBlue Labs and served a consultant for Source Signal Imaging (now part of Cortech Solutions) and Elite Warrior Identification. Dr. Noble’s work has been supported by a number of awards, including from the NSF and NIH, and her work has appeared in journals including PNAS, Nature, and Neuron.</p>
+        <div style="font-style: italic;">Principal Investigator</div>
     </div>
 </div>
 
