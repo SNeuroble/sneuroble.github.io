@@ -9,20 +9,20 @@
 </div>
 
 <div style="display: flex; align-items: top; margin-bottom: 40px;">
-    <div style="flex: 1; margin-right: 20px;">
+    <div style="flex: 30%; margin-right: 20px;">
         <img src="img/alex.jpeg" alt="Alex Fischbach" width="250">
     </div>
-    <div style="flex: 3;">
+    <div style="flex: 70%;">
         <h2>Alex Fischbach</h2>
         <p>Bio of Member 2 goes here. You can include any relevant information about their background, research interests, etc.</p>
     </div>
 </div>
 
 <div style="display: flex; align-items: top; margin-bottom: 40px;">
-    <div style="flex: 1; margin-right: 20px;">
+    <div style="flex: 30%; margin-right: 20px;">
         <img src="img/hallee.jpg" alt="Hallee Shearer" width="250">
     </div>
-    <div style="flex: 3;">
+    <div style="flex: 70%;">
         <h2>Hallee Shearer</h2>
         <p>Bio of Member 3 goes here. You can include any relevant information about their background, research interests, etc.</p>
     </div>
