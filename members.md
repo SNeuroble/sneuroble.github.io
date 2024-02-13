@@ -15,7 +15,7 @@ _PhD Candidate_
 
 Bio goes here.
 
-<img src="img/hallee.jpg" alt="Hallee Shearer" width="100" height="100">
+<img src="img/hallee.jpg" alt="Hallee Shearer" width="100">
 **Hallee Shearer**  
 _Research Technician_
 
