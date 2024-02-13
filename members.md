@@ -1,3 +1,7 @@
+---
+title: Projects
+---
+
 <div style="display: flex; align-items: top; margin-bottom: 40px;">
     <div style="flex: 30%; margin-right: 20px;">
         <img src="img/steph.png" alt="Stephanie Noble" width="250">
