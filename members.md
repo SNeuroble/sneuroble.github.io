@@ -3,13 +3,13 @@ layout: page
 title: Members
 ---
 
-![Stephanie Noble](steph.jpg)
+
 **Stephanie Noble**  
 _Principal Investigator_
 
 Bio goes here.
 
-![Alex Fischbach](alex.jpg)
+
 **Alex Fischbach**  
 _PhD Candidate_
 
@@ -20,4 +20,4 @@ Bio goes here.
 **Hallee Shearer**  
 _Research Technician_
 
-Bio goes here.
+Hallee is interested in statistics, test-retest reliability, and naturalistic neuroimaging. She completed her M.Sc at the University of British Columbia in Vancouver, Canada 
