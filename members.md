@@ -1,7 +1,7 @@
 # Lab Members
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 1; margin-right: 20px;">
+<div style="display: flex; align-items: top; margin-bottom: 20px;">
+    <div style="flex: 1; margin-right: 5px;">
         <img src="img/steph.png" alt="Stephanie Noble" width="250">
     </div>
     <div style="flex: 2;">
