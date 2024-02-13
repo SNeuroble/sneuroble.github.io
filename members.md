@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1; margin-right: 20px;">
-        <img src="img/steph.jpg" alt="Stephanie Noble" width="250">
+        <img src="img/steph.png" alt="Stephanie Noble" width="250">
     </div>
     <div style="flex: 2;">
         <h2>Stephanie Noble</h2>
