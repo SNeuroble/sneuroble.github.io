@@ -16,7 +16,7 @@
     <div style="flex: 70%;">
         <h2>Alex Fischbach</h2>
         <div style="font-style: italic;">PhD Candidate</div>
-        <p>Bio of Member 2 goes here. You can include any relevant information about their background, research interests, etc.</p>
+        <p>Bio</p>
     </div>
 </div>
 
@@ -27,6 +27,6 @@
     <div style="flex: 70%;">
         <h2>Hallee Shearer</h2>
         <div style="font-style: italic;">Research Technician</div>
-        <p>Bio of Member 3 goes here. You can include any relevant information about their background, research interests, etc.</p>
+        <p>Bio</p>
     </div>
 </div>
