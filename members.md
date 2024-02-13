@@ -15,7 +15,7 @@ _PhD Candidate_
 
 Bio goes here.
 
-![Hallee Shearer](hallee.jpg)
+![Hallee Shearer](img/hallee.jpg)
 **Hallee Shearer**  
 _Research Technician_
 
