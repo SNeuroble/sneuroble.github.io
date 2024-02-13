@@ -20,3 +20,17 @@
     </div>
 </div>
 
+.container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.image {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.text {
+    flex: 2;
+}
