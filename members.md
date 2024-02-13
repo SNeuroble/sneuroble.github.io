@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: top; margin-bottom: 20px;">
+<div style="display: flex; align-items: top; margin-bottom: 40px;">
     <div style="flex: 1; margin-right: 20px;">
         <img src="img/steph.png" alt="Stephanie Noble" width="250">
     </div>
@@ -8,7 +8,7 @@
     </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: top; margin-bottom: 40px;">
     <div style="flex: 1; margin-right: 20px;">
         <img src="img/alex.jpeg" alt="Alex Fischbach" width="250">
     </div>
@@ -18,7 +18,7 @@
     </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: top; margin-bottom: 40px;">
     <div style="flex: 1; margin-right: 20px;">
         <img src="img/hallee.jpg" alt="Hallee Shearer" width="250">
     </div>
