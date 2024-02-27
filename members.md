@@ -20,7 +20,8 @@ title: Projects
     <div style="flex: 70%;">
         <h2>Alex Fischbach</h2>
         <div style="font-style: italic;">PhD Candidate</div>
-        <p style="font-size: 12px;">Bio</p>
+        <p style="font-size: 12px;">Alex Fischbach is a 4th year graduate student in the Department of Psychology and Center for Cognitive and Brain Health at Northeastern University where she focuses on precision fMRI in subcortical structures traditionally associated with “fight-or-flight” circuits using ultra-high resolution imaging (7-Tesla).
+For her undergraduate studies, Alex attended Providence College where she was 1 of 8 students admitted into the Neuroscience Program. Throughout this program, she conducted research at both Providence College and Brown University, investigating both the environmental and biological antecedents to negative affect, as seen in disorders of anxiety, fear, and obsessive-compulsive behaviors. In 2017, she completed her studies, earning a B.A. in Psychology, a B.A. in Biology, and a Neuroscience Certificate. In 2022, she received her MS from the Interdisciplinary Affective Science Lab.</p>
     </div>
 </div>
 
@@ -31,6 +32,6 @@ title: Projects
     <div style="flex: 70%;">
         <h2>Hallee Shearer</h2>
         <div style="font-style: italic;">Research Technician</div>
-        <p style="font-size: 12px;">Bio</p>
+        <p style="font-size: 12px;">Hallee is a research technician interested in test-retest reliability, naturalistic neuroimaging, precision psychiatry, and statistics. She received a Bachelor of Science in Behavioural Neuroscience in 2021, and a Master of Science in Neuroscience in 2023 - both from the University of British Columbia (UBC). During her time at UBC, she worked with Dr. Fidel Vila-Rodriguez at the Non-Invasive Neurostimulation Therapies (NINET) lab, where her interest in the use of fRMI for interventional psychiatry began. She then joined the Naturalistic Neuroimaging Lab with Dr. Tamara Vanderwal to explore how movie-fMRI could provide improvements in functional connectivity test-retest reliability for precision psychiatric applications. In the NeuroPRISM lab, Hallee is currently working on creating a tool for exploring expected effect sizes of typical fMRI studies. </p>
     </div>
 </div>
