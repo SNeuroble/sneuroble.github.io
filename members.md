@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Members
+title: Team
 ---
 
 <div style="display: flex; align-items: top; margin-bottom: 40px;">

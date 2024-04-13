@@ -6,11 +6,11 @@ description: Neuroscience playground
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Join us!: "opportunities"
+  Team: "members"
+  Resources: "resources"
   Projects: "projects"
-  Members: "members"
   Publications: "https://scholar.google.com/citations?user=JxQdvn4AAAAJ&hl=en&oi=sra"
-  Resources: "resources" 
+  Join us!: "opportunities"
   
 
 # --- Logo --- #
