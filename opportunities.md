@@ -6,7 +6,7 @@ Join our exciting computational neuroscience research team in the Neuroscience P
 
 **Postdoctoral Researchers**
 
-\*\*_We are currently recruiting a postdoctoral researcher—please submit an application <a href="https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R119896">here</a>_\*\*
+\*\*_We are **not** currently recruiting postdoctoral researchers but are open to inquiries regarding future years_\*\*
 
 Postdoctoral researchers receive mentored experience in developing and running research projects, with an emphasis on preparation to lead an independent research lab. Opportunities and training towards independence and ownership over research projects is a central feature of this position. Postdoctoral research projects will broadly involve the development of machine learning, statistics, or other computational methodologies for human neuroscience research.
 
@@ -30,6 +30,5 @@ Additional resources:
 **Research Staff**
 
 \*\*_We are **not** currently recruiting research staff but are open to inquiries regarding a data / computational resource management role_\*\*
-
 
 _If you are interested in discussing potential opportunities in the lab, please reach out to Dr. Stephanie Noble at s.noble\<at\>northeastern.edu . (Note that due to the volume of requests we may not be able to respond to all inquiries.)_
