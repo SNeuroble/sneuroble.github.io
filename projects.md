@@ -27,4 +27,4 @@ Recent work has raised questions about the reliability and validity of major fMR
 
 Dr. Noble is a contributor to the [BioImage Suite Web (BISWeb)](https://bioimagesuiteweb.github.io/webapp/) team led by Dustin Scheinost and Xenophon Papademetris (_R24 MH114805, PIs: Papademetris X. and Scheinost D_). BISWeb is a point-and-click app that runs in any modern web browser without any installation necessary, yet with performance rivaling that of a locally installed software. Due to the general nature of its architecture (C++, WebAssembly, JavaScript), BISWeb works on most modern web-browsers, major operating systems, and devices. Currently, BISWeb supports a range of functionality in human and animal neuroscience, from defacing to connectome visualization.
 
-![](https://github.com/bioimagesuiteweb/bisweb/blob/master/web/images/bisweb_newlogo_white_small.png)
+![](https://raw.githubusercontent.com/bioimagesuiteweb/bisweb/master/web/images/bisweb_newlogo_white_small.png)
