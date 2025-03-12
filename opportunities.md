@@ -6,7 +6,7 @@ Join our exciting computational neuroscience research team in the Neuroscience P
 
 **Postdoctoral Researchers**
 
-\*\*_We are **not** currently recruiting a postdoctoral researcher, but we are open to inquiries regarding future years_\*\*
+\*\*_We are **not** currently recruiting postdoctoral researchers_\*\*
 
 Postdoctoral researchers receive mentored experience in developing and running research projects, with an emphasis on preparation to lead an independent research lab. Opportunities and training towards independence and ownership over research projects is a central feature of this position. Postdoctoral research projects will broadly involve the development of machine learning, statistics, or other computational methodologies for human neuroscience research.
 
@@ -14,7 +14,9 @@ Postdoctoral researchers with existing technical and quantitative research exper
 
 **PhD Students**
 
-\*\*_We are currently recruiting PhD students—please apply via the <a href="https://cos.northeastern.edu/psychology/">Northeastern Psychology</a> or <a href="https://bioe.northeastern.edu/"> Bioengineering</a> application sites_\*\*
+\*\*_We are **not** currently recruiting PhD students_\*\*
+
+We review applications from the departments of <a href="https://cos.northeastern.edu/psychology/">Northeastern Psychology</a> and <a href="https://bioe.northeastern.edu/"> Bioengineering</a>.
 
 PhD students receive mentored experience in computational and statistical neuroimaging research as well as guidance in conceptualizing and running independent research. Training towards independence over the course of the PhD journey is a central feature of this position, with an emphasis on preparation to lead computational neuroscience research projects in academia or industry. PhD student projects will broadly involve the development of machine learning, statistics, or other computational methodologies for human neuroscience research.
 
@@ -29,7 +31,7 @@ Additional resources:
 
 **Research Staff**
 
-\*\*_We are **not** currently recruiting research staff, but we are open to inquiries regarding a data / computational resource management role_\*\*
+\*\*_We are **not** currently recruiting research staff_\*\*
 
 
 _If you are interested in discussing potential opportunities in the lab, please reach out to Dr. Stephanie Noble at s.noble\<at\>northeastern.edu . (Note that due to the volume of requests we may not be able to respond to all inquiries.)_
