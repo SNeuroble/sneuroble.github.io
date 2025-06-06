@@ -3,7 +3,7 @@ layout: page
 title: Resources
 ---
 
-<h3><a href="https://neuroprismlab.shinyapps.io/effect_size_shiny/">BrainEffeX</a></h3>
+<h3><a href="https://neuroprismlab.shinyapps.io/braineffex/">BrainEffeX</a></h3>
 
 R Shiny for exploring effect sizes in typical neuroimaging study designs
 
