@@ -28,16 +28,14 @@ title: Team
 </div>
 
 <div style="display: flex; align-items: top; margin-bottom: 40px;">
-    <div style="flex: 30%; margin-right: 20px;">
-        <img src="img/fc.png" alt="Fabricio Cravo" width="250">
-    </div>
-    <div style="flex: 70%;">
-        <h2>Dr. Fabricio Cravo</h2>
-        <div style="font-style: italic;">Postdoctoral Researcher</div>
-        <p style="font-size: 16px;">Dr. Fabricio Cravo is a Postdoctoral Researcher in the NeuroPRISM Lab specializing in computational neuroscience and statistical analysis of fMRI data. His current research focuses on developing statistical methods for neuroimaging, including the creation of BrainPowerX, a novel empirical power calculator for fMRI studies that enhances efficiency through advanced algorithm design and optimized statistical inference procedures. He completed his Ph.D. in Computer Science and Applied Mathematics at Paris-Saclay University (ranked #1 globally in Mathematics by ARWU, 2020-2023), where his research focused on distributed algorithms for microbiological systems and mathematical modeling of gene regulatory networks. Dr. Cravo holds a Master's degree in Computer Engineering from CentraleSupélec, France, with specialization in AI, machine learning, and databases. He is also the lead developer of MobsPy, a programming language for biochemical reaction networks, with work published in PLOS Computational Biology and npj Systems Biology and Applications.
-        <br><i><a href="https://fabriciocravo.github.io">Personal Website</a></i>
-        </p>
-    </div>
+    <div style="flex: 30%; margin-right: 20px;">
+        <img src="img/FC.png" alt="Fabricio Cravo" width="250">
+    </div>
+    <div style="flex: 70%;">
+        <h2>Dr. Fabricio Cravo</h2>
+        <div style="font-style: italic;">Postdoctoral Researcher</div>
+        <p style="font-size: 16px;">Fabricio Cravo is a Postdoctoral Researcher in the NeuroPRISM Lab specializing in computational and statistical analysis of fMRI data, particularly for more powerful study planning and inference. Dr. Cravo received his Master's degree in Computer Engineering from CentraleSupélec, France, with a specialization in AI, machine learning, and databases. He then completed his Ph.D. in Computer Science and Applied Mathematics at Paris-Saclay University (ranked #1 globally in Mathematics by ARWU, 2020-2023), where his research focused on distributed algorithms for microbiological systems and mathematical modeling of gene regulatory networks with continuous-time Markov and ordinary differential equations models. He is currently the lead developer of MobsPy, a programming language for biochemical reaction networks, and SHOCK, an empirical power MATLAB toolbox for fMRI studies that features optimized statistical algorithms.
+        <br><i><a href="https://fabriciocravo.github.io">Personal Website</a></i>
+        </p>
+    </div>
 </div>
-
-

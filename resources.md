@@ -14,3 +14,7 @@ Matlab toolbox of inferential procedures for networks (including the Constrained
 <h3><a href="https://github.com/SNeuroble/Multifactor_ICC">Multifactor ICC</a></h3>
 
 Matlab toolbox for Generalizability theory-based ICC calculation and Decision Study
+
+<h3><a href="https://github.com/neuroprismlab/SHOCK-Brain-Power-Calculator">SHOCK</a></h3>
+
+MATLAB toolbox for empirical power calculation focused on method-and data-agnostic strategies
