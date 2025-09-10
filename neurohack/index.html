@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+<meta charset="UTF-8">
+<title>NEUROHACK</title>
+  <link rel="stylesheet" href="neurohack.css">
+</head>
+
+<script>
+function showSection(sectionId) {
+    // Hide all sections
+    const sections = document.querySelectorAll('.content-section');
+    sections.forEach(section => section.style.display = 'none');
+
+    // Show the selected section
+    document.getElementById(sectionId).style.display = 'block';
+}
+</script>
+
+<body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+</div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
+<ul class="nav_navbar-nav">
+<li class="nav_list">
+<a  href="#" onclick="showSection('about')">About</a>
+</li>
+<li class="nav_list">
+<a  href="#" onclick="showSection('schedule')">Schedule</a>
+</li>
+</li>
+<li class="nav_list">
+<a  href="#" onclick="showSection('location')">Location</a>
+</li>
+<li class="nav_list">
+<a  href="#" onclick="showSection('inscription')">Inscription</a>
+</li>
+</li>
+<li class="nav_list">
+<a  href="#" onclick="showSection('faq')">FAQ</a>
+</li>
+<li class="nav_list">
+<a  href="#" onclick="showSection('organizers')">Organizers</a>
+</li>
+</ul>
+</div>
+<!-- /.navbar-collapse -->
+</div>
+<!-- /.container -->
+</nav>
+
+
+<section id="about" class="content-section">
+    <div class="hero-content">
+        <h1>Boston Precision Brain & Mental Health Hack 2025</h1>
+        <div class="hero-subtitle">
+            Advanced Neuroscience Workshop
+        </div>
+         <p style="text-align: justify; margin-bottom: 2rem;">
+             Boston Precision Brain & Mental Health Hack is a three-day event happening at Northeastern University this Fall designed as an extension to Brainhack Global. This event will bring together students, postdocs, and faculty across fields and universities in Boston to tackle precision medicine problems through hackathon-style projects, hands-on tutorials, and discussions. Following the Brainhack spirit, this hackathon is not a “coding sprint” or exclusive to programmers—neuroscientists, psychologists, engineers, programmers, students, faculty, and more can and do make a significant contribution to the event. Given some methodological overlap and goals,
+             we are excited to incorporate both digital health and neuroscience approaches.
+     </p>
+    </div>
+</section>
+
+
+<section id="schedule" class="content-section">
+    <!-- Day 1 Table -->
+    <div class="table-content">
+        <h3>10/28/2025 - Tuesday</h3>
+        <table class="schedule-table">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Session</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>10:00 AM</td>
+                    <td>Intro/overview - CBH / NUBIC</td>
+                </tr>
+                <tr>
+                    <td>11:00 AM</td>
+                    <td>TBH</td>
+                </tr>
+                <tr>
+                    <td>11:30 AM</td>
+                    <td>TBH</td>
+                </tr>
+                <tr>
+                    <td>12:00 PM</td>
+                    <td>Lunch</td>
+                </tr>
+                <tr>
+                    <td>1:00 PM</td>
+                    <td>Project &ldquo;speed dating&rdquo; / creation / pitches</td>
+                </tr>
+                <tr>
+                    <td>2:00-4:00 PM</td>
+                    <td>Project &ldquo;speed dating&rdquo; / creation / pitches</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Day 2 Table -->
+    <div class="table-content">
+        <h3>10/29/2025 - Wednesday</h3>
+        <table class="schedule-table">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Session</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>10:00 AM</td>
+                    <td>Free Hacking</td>
+                </tr>
+                <tr>
+                    <td>11:00 AM</td>
+                    <td>TBH</td>
+                </tr>
+                <tr>
+                    <td>11:30 AM</td>
+                    <td>Free Hacking</td>
+                </tr>
+                <tr>
+                    <td>12:00 PM</td>
+                    <td>Lunch</td>
+                </tr>
+                <tr>
+                    <td>1:00 PM</td>
+                    <td>Workshop/talk</td>
+                </tr>
+                <tr>
+                    <td>2:00-4:00 PM</td>
+                    <td>Free Hacking, data blitz</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Day 3 Table -->
+    <div class="table-content">
+        <h3>10/30/2025 - Thursday</h3>
+        <table class="schedule-table">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Session</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>10:00 AM</td>
+                    <td>Free Hacking / Unconference</td>
+                </tr>
+                <tr>
+                    <td>11:00 AM</td>
+                    <td>TBH</td>
+                </tr>
+                <tr>
+                    <td>11:30 AM</td>
+                    <td>Free Hacking</td>
+                </tr>
+                <tr>
+                    <td>12:00 PM</td>
+                    <td>Lunch</td>
+                </tr>
+                <tr>
+                    <td>1:00 PM</td>
+                    <td>Free Hacking</td>
+                </tr>
+                <tr>
+                    <td>2:00-4:00 PM</td>
+                    <td>Project Presentations</td>
+                </tr>
+                <tr>
+                    <td>After 4:00 PM</td>
+                    <td>Social</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>
+
+
+<section id="location" class="content-section">
+    <div class="image-content">
+        <h1>Location</h1>
+        <div class="image-subtitle">
+            Boston Precision Brain & Mental Health Hack Boston 2025 will take place both at Northeastern University's and virtually over Zoom
+        </div>
+        <img src="images/location_image.png" alt="Location Image">
+        <p></p>
+    </div>
+</section>
+
+<section id="inscription" class="content-section">
+    <div class="hero-content">
+        <h1>Inscription</h1>
+        <div class="hero-subtitle">
+            Registration Form
+        </div>
+        <p>For inscription, please click the following Google Form link:</p>
+        <p><a href="" target="_blank" style="color: #2c5aa0; text-decoration: underline; font-weight: bold;">Not yet available</a></p>
+    </div>
+</section>
+
+<section id="faq" class="content-section">
+    <div class="hero-content">
+        <h1>FAQ</h1>
+        <div class="hero-subtitle" style="text-align: left;">
+            Frequently Asked Questions
+        </div>
+
+        <p style="text-align: left; font-weight: bold; margin-top: 2rem;">Who should attend the Boston Precision Brain & Mental Health Hack 2025?</p>
+        <p style="text-align: left; margin-bottom: 2rem;">This workshop is designed for undergraduate students, graduate students, postdoctoral researchers, faculty members, and industry professionals working in neuroscience or related fields. Whether you're just starting your research journey or are an established scientist, you'll find valuable opportunities to learn cutting-edge techniques, share your work, and build meaningful connections within Boston's vibrant neuroscience community.</p>
+
+        <p style="text-align: left; font-weight: bold;">Will you provide lunch?</p>
+        <p style="text-align: left; margin-bottom: 2rem;">Yes. We will provide coffee for everyone and lunch for those who filled out the inscription form before the deadline</p>
+
+        <p style="text-align: left; font-weight: bold;">What's the workshop format?</p>
+        <p style="text-align: left;">The Boston Precision Brain & Mental Health Hack features a dynamic mix of keynote presentations by leading researchers, hands-on technical workshops, interactive discussion panels, and dedicated networking sessions. You'll have opportunities to present your own work, collaborate on new projects, and engage in both formal presentations and informal conversations with peers and mentors from across Boston's research institutions.</p>
+    </div>
+</section>
+
+<section id="organizers" class="content-section">
+    <div class="organizers-content">
+        <h1>Organizers</h1>
+
+        <div class="organizers-grid">
+             <div class="organizer-card">
+                <img src="images/alex.jpeg">
+                <h3>Alex Fischbach</h3>
+                <div class="organizer-title">Ph.D. Student</div>
+            </div>
+
+             <div class="organizer-card">
+                <img src="images/hallee.jpg">
+                <h3>Hallee Shearer</h3>
+                <div class="organizer-title">Ph.D. Student</div>
+            </div>
+
+
+            <div class="organizer-card">
+                <img src="images/steph.png">
+                <h3>Dr. Stephanie Noble</h3>
+                <div class="organizer-title">Principal Investigator</div>
+            </div>
+
+            <div class="organizer-card">
+                <img src="images/fatemeh.png">
+                <h3>Fatemeh Doshvargar</h3>
+                <div class="organizer-title">Research Affiliates</div>
+            </div>
+
+            <div class="organizer-card">
+                <img src="images/me.png">
+                <h3>Dr. Fabricio Cravo</h3>
+                <div class="organizer-title">Postdoc Researcher</div>
+            </div>
+
+        </div>
+
+        <h1>Volunteers</h1>
+        <ul style="list-style-type: none; color: #333;">
+            <li>TBH</li>
+        </ul>
+
+    </div>
+</section>
+
+</body>
+</html>
