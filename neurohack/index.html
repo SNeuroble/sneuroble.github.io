@@ -38,7 +38,7 @@ function showSection(sectionId) {
 <a  href="#" onclick="showSection('location')">Location</a>
 </li>
 <li class="nav_list">
-<a  href="#" onclick="showSection('inscription')">Inscription</a>
+<a  href="#" onclick="showSection('inscription')">Registration</a>
 </li>
 </li>
 <li class="nav_list">
@@ -73,6 +73,7 @@ function showSection(sectionId) {
     <!-- Day 1 Table -->
     <div class="table-content">
         <h3>10/28/2025 - Tuesday</h3>
+        <h4 class="location-header">Location: Curry Student Center</h4>
         <table class="schedule-table">
             <thead>
                 <tr>
@@ -82,12 +83,16 @@ function showSection(sectionId) {
             </thead>
             <tbody>
                 <tr>
-                    <td>10:00 AM</td>
-                    <td>Intro/overview - CBH / NUBIC</td>
+                    <td>9:30 AM</td>
+                    <td>Intro</td>
                 </tr>
                 <tr>
-                    <td>11:00 AM - 12:00 PM</td>
-                    <td>TBH</td>
+                    <td>10:00 AM</td>
+                    <td>Project "speed dating" & Coffee / Data blitz</td>
+                </tr>
+                <tr>
+                    <td>11:00 AM</td>
+                    <td>Talk: Susan Whitfield-Gabrieli</td>
                 </tr>
                 <tr>
                     <td>12:00 PM</td>
@@ -95,19 +100,26 @@ function showSection(sectionId) {
                 </tr>
                 <tr>
                     <td>1:00 PM</td>
-                    <td>Project &ldquo;speed dating&rdquo; / creation / pitches</td>
+                    <td>Finish "Speed dating" / Talk: Don Robinaugh</td>
                 </tr>
                 <tr>
-                    <td>2:00-4:00 PM</td>
-                    <td>Project &ldquo;speed dating&rdquo; / creation / pitches</td>
+                    <td>2:00 PM</td>
+                    <td>Open hacking</td>
+                </tr>
+                <tr>
+                    <td>4:00 PM</td>
+                    <td>Wrap up</td>
                 </tr>
             </tbody>
         </table>
     </div>
 
-    <!-- Day 2 Table -->
+    <!-- Day 2 Table - Split into two parts for location change -->
     <div class="table-content">
         <h3>10/29/2025 - Wednesday</h3>
+
+        <!-- Morning sessions at primary location -->
+        <h4 class="location-header">Location: Curry Student Center</h4>
         <table class="schedule-table">
             <thead>
                 <tr>
@@ -117,24 +129,41 @@ function showSection(sectionId) {
             </thead>
             <tbody>
                 <tr>
-                    <td>10:00 AM</td>
-                    <td>Free Hacking</td>
+                    <td>9:00 AM</td>
+                    <td>Open hacking</td>
                 </tr>
                 <tr>
-                    <td>11:00 AM-12:00 PM</td>
-                    <td>TBH</td>
+                    <td>9:30 AM</td>
+                    <td>Coffee & Open hacking</td>
+                </tr>
+                <tr>
+                    <td>10:00 AM</td>
+                    <td>Data blitz</td>
+                </tr>
+                <tr>
+                    <td>11:00 AM</td>
+                    <td>Open hacking</td>
                 </tr>
                 <tr>
                     <td>12:00 PM</td>
                     <td>Lunch</td>
                 </tr>
+            </tbody>
+        </table>
+
+        <!-- Afternoon sessions at different location -->
+        <h4 class="location-header" style="margin-top: 20px;">Location: ISEC Building 6th Floor Room 655</h4>
+        <table class="schedule-table">
+            <thead>
                 <tr>
-                    <td>1:00 PM</td>
-                    <td>Workshop/talk</td>
+                    <th>Time</th>
+                    <th>Session</th>
                 </tr>
+            </thead>
+            <tbody>
                 <tr>
-                    <td>2:00-4:00 PM</td>
-                    <td>Free Hacking, data blitz</td>
+                    <td>1:30 PM onwards</td>
+                    <td>Open Hacking</td>
                 </tr>
             </tbody>
         </table>
@@ -143,6 +172,7 @@ function showSection(sectionId) {
     <!-- Day 3 Table -->
     <div class="table-content">
         <h3>10/30/2025 - Thursday</h3>
+        <h4 class="location-header">Location: Curry Student Center</h4>
         <table class="schedule-table">
             <thead>
                 <tr>
@@ -152,12 +182,20 @@ function showSection(sectionId) {
             </thead>
             <tbody>
                 <tr>
-                    <td>10:00 AM</td>
-                    <td>Free Hacking / Unconference</td>
+                    <td>9:00 AM</td>
+                    <td>Open hacking</td>
                 </tr>
                 <tr>
-                    <td>11:00 AM-12:00 PM</td>
-                    <td>TBH</td>
+                    <td>9:30 AM</td>
+                    <td>Coffee & Open hacking</td>
+                </tr>
+                <tr>
+                    <td>10:00 AM</td>
+                    <td>Talk: Satrajit Ghosh</td>
+                </tr>
+                <tr>
+                    <td>11:00 AM</td>
+                    <td>Talk: Paola Pedrelli</td>
                 </tr>
                 <tr>
                     <td>12:00 PM</td>
@@ -165,36 +203,62 @@ function showSection(sectionId) {
                 </tr>
                 <tr>
                     <td>1:00 PM</td>
-                    <td>Free Hacking</td>
+                    <td>Open hacking</td>
                 </tr>
                 <tr>
-                    <td>2:00-4:00 PM</td>
-                    <td>Project Presentations</td>
+                    <td>3:00 PM</td>
+                    <td>Presentations & Wrap-up</td>
                 </tr>
                 <tr>
-                    <td>After 4:00 PM</td>
-                    <td>Social</td>
+                    <td>4:00 PM</td>
+                    <td>Social!</td>
                 </tr>
             </tbody>
         </table>
     </div>
 </section>
 
-
 <section id="location" class="content-section">
     <div class="image-content">
         <h1>Location</h1>
         <div class="image-subtitle">
-            Boston Precision Brain & Mental Health Hack Boston 2025 will take place both at Northeastern University (Location TBD) and virtually over Zoom
+            Boston Precision Brain & Mental Health Hack 2025 will take place at two locations
+            on Northeastern University's campus (Curry Student Center 2nd Floor and ISEC 6th Floor) and virtually over Zoom
         </div>
-        <img src="images/location_image.png" alt="Location Image">
-        <p></p>
+
+        <img src="images/location_image.png" alt="Location Image" style="margin-top: 2rem; margin-bottom: 2rem;">
+
+        <div style="margin-top: 2rem; text-align: left; color: black;">
+            <h2 style="color: black; margin-bottom: 1rem;">Primary Location (Tue, Wed Morning, and Thu)</h2>
+            <p style="font-weight: bold; color: black;">Curry Student Center - 2nd Floor</p>
+            <p style="color: black;">360 Huntington Avenue, Boston, MA 02115</p>
+
+            <p style="font-weight: bold; margin-top: 1rem; color: black;">Public Transit:</p>
+            <ul style="list-style-type: disc; margin-left: 20px; color: black;">
+                <li><strong>Green Line E:</strong> "Northeastern University" stop (right in front)</li>
+                <li><strong>Orange Line:</strong> "Ruggles Station" (5-7 min walk)</li>
+            </ul>
+
+            <p style="font-weight: bold; margin-top: 1rem; color: black;">Parking:</p>
+            <p style="color: black; margin-left: 20px;">Renaissance Garage (835 Columbus Ave)</p>
+
+            <h2 style="color: black; margin-top: 2rem; margin-bottom: 1rem;">Wednesday Afternoon Location</h2>
+            <p style="font-weight: bold; color: black;">ISEC Building - 6th Floor, Room 655</p>
+            <p style="color: black;">805 Columbus Avenue, Boston, MA 02120</p>
+
+            <p style="font-weight: bold; margin-top: 1rem; color: black;">From Curry (10 min walk):</p>
+            <p style="color: black; margin-left: 20px;">Walk south to Ruggles St → Columbus Ave → Turn left to ISEC</p>
+
+            <p style="font-weight: bold; margin-top: 1rem; color: black;">Public Transit:</p>
+            <p style="color: black; margin-left: 20px;">Orange Line to Ruggles (5 min walk west on Columbus)</p>
+            
+        </div>
     </div>
 </section>
 
 <section id="inscription" class="content-section">
     <div class="hero-content">
-        <h1>Inscription</h1>
+        <h1>Registration</h1>
         <div class="hero-subtitle">
             Registration Form
         </div>
