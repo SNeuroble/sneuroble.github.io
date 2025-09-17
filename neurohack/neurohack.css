@@ -274,7 +274,7 @@ body::before {
     padding: 12px 15px;
     text-align: left;
     border-bottom: 1px solid #ddd;
-    color: #000; /* Dark header text - change this color */
+    color: #F5F5F5; /* Dark header text - change this color */
 }
 
 .schedule-table td {
@@ -416,7 +416,8 @@ body::before {
 
 /* This is the schedule header - change position if organization is required */
 .location-header {
-        color: #2c3e50;
+        /* color: #2c3e50; */
+        color: #F5F5F5;
         font-weight: 600;
         margin-bottom: 10px;
         padding: 5px 0;
