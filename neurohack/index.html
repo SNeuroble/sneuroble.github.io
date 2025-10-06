@@ -33,6 +33,9 @@ function showSection(sectionId) {
 <li class="nav_list">
 <a  href="#" onclick="showSection('schedule')">Schedule</a>
 </li>
+<li class="nav_list">
+<a  href="#" onclick="showSection('speakers')">Speakers</a>
+</li>
 </li>
 <li class="nav_list">
 <a  href="#" onclick="showSection('location')">Location</a>
@@ -46,6 +49,9 @@ function showSection(sectionId) {
 </li>
 <li class="nav_list">
 <a  href="#" onclick="showSection('organizers')">Organizers</a>
+</li>
+<li class="nav_list">
+<a  href="#" onclick="showSection('volunteers')">Volunteers</a>
 </li>
 </ul>
 </div>
@@ -224,6 +230,73 @@ function showSection(sectionId) {
     </div>
 </section>
 
+<section id="speakers" class="content-section">
+    <h1>Speakers</h1>
+
+    <div class="speakers-container">
+        <!-- Speaker 1: Susan Whitfield-Gabrieli -->
+        <div class="speaker-card">
+            <div class="speaker-photo">
+                <img src="images/susan_speaker_img.png" alt="Susan Whitfield-Gabrieli">
+            </div>
+            <div class="speaker-info">
+                <h3>Susan Whitfield-Gabrieli</h3>
+                <div class="speaker-title">Professor of Psychology & Founding Director, NUBIC</div>
+                <div class="speaker-affiliation">Northeastern University & Harvard Medical School</div>
+                <div class="speaker-bio">
+                    Dr. Whitfield-Gabrieli is a renowned neuroscientist and Professor of Psychology at Northeastern University, where she founded and directs the Biomedical Imaging Center (NUBIC). She also holds appointments as a Member of the Faculty at Harvard Medical School and Researcher in the Department of Psychiatry at Massachusetts General Hospital. Her research focuses on discovering brain-based biomarkers for improved diagnosis and early detection of psychiatric disorders, with particular emphasis on developing neuroimaging analysis methods and software packages including CONN (connectivity toolbox), REX, and ART. She leads the EPIC Brain Lab and has pioneered real-time fMRI neurofeedback combined with mindfulness meditation as a transdiagnostic intervention for mental illness.
+                </div>
+            </div>
+        </div>
+
+        <!-- Speaker 2: Don Robinaugh -->
+        <div class="speaker-card">
+            <div class="speaker-photo">
+                <img src="images/don.png" alt="Donald Robinaugh">
+            </div>
+            <div class="speaker-info">
+                <h3>Donald Robinaugh</h3>
+                <div class="speaker-title">Assistant Professor</div>
+                <div class="speaker-affiliation">Northeastern University, Applied Psychology & Art + Design</div>
+                <div class="speaker-bio">
+                    Dr. Robinaugh earned his PhD from Harvard University in 2015 under the mentorship of Dr. Richard McNally. After completing postdoctoral training at the University of Amsterdam, he served as an Assistant Professor at Massachusetts General Hospital and Harvard Medical School before joining the faculty at Northeastern University. His research focuses on understanding the etiology of anxiety and traumatic stress disorders using computational psychiatry and network science approaches. He is particularly interested in how mental disorders operate as complex systems and has developed computational models that formalize cognitive-behavioral theories of panic disorder. His work emphasizes the importance of data visualization in scientific reasoning and psychological research.
+                </div>
+            </div>
+        </div>
+
+        <!-- Speaker 3: Satrajit Ghosh -->
+        <div class="speaker-card">
+            <div class="speaker-photo">
+                <img src="images/gosh.png" alt="Satrajit Ghosh">
+            </div>
+            <div class="speaker-info">
+                <h3>Satrajit Ghosh</h3>
+                <div class="speaker-title">Principal Research Scientist & Director, Open Data in Neuroscience Initiative</div>
+                <div class="speaker-affiliation">MIT McGovern Institute & Harvard Medical School</div>
+                <div class="speaker-bio">
+                    Dr. Ghosh is a Principal Research Scientist at the McGovern Institute for Brain Research at MIT and an Assistant Professor in the Department of Otolaryngology at Harvard Medical School. He directs both the Open Data in Neuroscience Initiative and the Senseable Intelligence Group at MIT. His research spans computer science and neuroscience, focusing on applied machine learning, signal processing, and translational medicine. He is particularly known for his work on using neuroimaging, speech communication, and machine learning to improve assessments and treatments for mental health conditions. He also serves as Director of Data Models and Integration for ReproNim, an NIH P41 Center for Reproducible Neuroimaging Computation, and is a strong advocate for open and collaborative science.
+                </div>
+            </div>
+        </div>
+
+        <!-- Speaker 4: Paola Pedrelli -->
+        <div class="speaker-card">
+            <div class="speaker-photo">
+                <img src="images/paola.png" alt="Paola Pedrelli">
+            </div>
+            <div class="speaker-info">
+                <h3>Paola Pedrelli</h3>
+                <div class="speaker-title">Associate Director, Depression Clinical Research Program</div>
+                <div class="speaker-affiliation">Massachusetts General Hospital & Harvard Medical School</div>
+                <div class="speaker-bio">
+                    Dr. Pedrelli is an Associate Director of the Depression Clinical and Research Program at Massachusetts General Hospital and an Associate Professor of Psychiatry at Harvard Medical School. She is a leading scientist in the development of digital tools for long-term monitoring of depression, leveraging artificial intelligence and wearable and mobile sensors. Her research program focuses on investigating the etiology, assessment, and treatment of comorbid affective disorders and alcohol use disorders, with particular emphasis on young adults and college students. She has developed several innovative cognitive behavioral therapy approaches for depression, both in isolation and in conjunction with heavy episodic drinking. Dr. Pedrelli is the principal investigator of multiple funded studies examining the effectiveness of novel therapy programs and innovative technologies for mental health assessment.
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
 <section id="location" class="content-section">
     <div class="image-content">
         <h1>Location</h1>
@@ -382,11 +455,18 @@ function showSection(sectionId) {
 
         </div>
 
-        <h1>Volunteers</h1>
-        <ul style="list-style-type: none; color: #333;">
-            <li>TBH</li>
-        </ul>
+    </div>
+</section>
 
+<section id="volunteers" class="content-section">
+    <div class="hero-content">
+        <h1>Volunteers</h1>
+        <div class="hero-subtitle">
+            TBH
+        </div>
+         <p style="text-align: justify; margin-bottom: 2rem;">
+             TBH
+     </p>
     </div>
 </section>
 
