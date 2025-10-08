@@ -35,6 +35,8 @@ title: Team
         <h2>Hallee Shearer</h2>
         <div style="font-style: italic;">PhD Student</div>
         <p style="font-size: 16px;">Hallee is a PhD student interested in test-retest reliability, naturalistic neuroimaging, precision psychiatry, and statistics. She received a Bachelor of Science in Behavioural Neuroscience in 2021, and a Master of Science in Neuroscience in 2023 - both from the University of British Columbia (UBC). During her time at UBC, she worked with Dr. Fidel Vila-Rodriguez at the Non-Invasive Neurostimulation Therapies (NINET) lab, where her interest in the use of fRMI for interventional psychiatry began. She then joined the Naturalistic Neuroimaging Lab with Dr. Tamara Vanderwal to explore how movie-fMRI could provide improvements in functional connectivity test-retest reliability for precision psychiatric applications. In the NeuroPRISM lab, Hallee is currently working on creating a tool for exploring expected effect sizes of typical fMRI studies. </p>
+    </div>
+</div>
 
 <div style="display: flex; align-items: top; margin-bottom: 40px;">
     <div style="flex: 30%; margin-right: 20px;">
